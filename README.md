@@ -1,1 +1,2 @@
 # BankingApplication-OnSummingAccounts
+Exercise- BANKING APPLICATION showing ADDITION OF VARIOUS ACCOUNTS OF ACCOUNT HOLDERS using LOOPS
